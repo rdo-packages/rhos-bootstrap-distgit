@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "1b7c9145_fb4e63f5",
+        "filename": "rhos-bootstrap.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 303
+      },
+      "writtenOn": "2021-11-04T17:48:25Z",
+      "side": 1,
+      "message": "I\u0027ll work on removing pbr today",
+      "parentUuid": "e6addc3f_d8061660",
+      "range": {
+        "startLine": 24,
+        "startChar": 0,
+        "endLine": 24,
+        "endChar": 1
+      },
+      "revId": "e3f79bbe931d45952b85b201eb0c6641339f5fdc",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "3f5cf0c6_3ff22332",
         "filename": "rhos-bootstrap.spec",
         "patchSetId": 1
@@ -48,6 +72,30 @@
     },
     {
       "key": {
+        "uuid": "91ef1686_37a5ca21",
+        "filename": "rhos-bootstrap.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 303
+      },
+      "writtenOn": "2021-11-04T17:48:25Z",
+      "side": 1,
+      "message": "The original thought was that this could provide useful tooling that could also be consumed by tripleo-repos via imports. For example sharing our dnf/module code.",
+      "parentUuid": "3f5cf0c6_3ff22332",
+      "range": {
+        "startLine": 30,
+        "startChar": 0,
+        "endLine": 30,
+        "endChar": 1
+      },
+      "revId": "e3f79bbe931d45952b85b201eb0c6641339f5fdc",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "cc635d09_5326ea09",
         "filename": "rhos-bootstrap.spec",
         "patchSetId": 1
@@ -59,6 +107,24 @@
       "writtenOn": "2021-11-04T17:41:07Z",
       "side": 1,
       "message": "I prefer to not include headers for empty sections to simplify the spec unless you plan to add content. Anyway, it can be accepted this way if you prefer.",
+      "revId": "e3f79bbe931d45952b85b201eb0c6641339f5fdc",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "cae2d841_74a77994",
+        "filename": "rhos-bootstrap.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 303
+      },
+      "writtenOn": "2021-11-04T17:48:25Z",
+      "side": 1,
+      "message": "I can clean these up as well",
+      "parentUuid": "cc635d09_5326ea09",
       "revId": "e3f79bbe931d45952b85b201eb0c6641339f5fdc",
       "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
       "unresolved": true
